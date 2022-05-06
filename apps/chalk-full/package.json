@@ -1,0 +1,16 @@
+{
+  "name": "chalk-full",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "inquirer": "^8.2.4"
+  }
+}
